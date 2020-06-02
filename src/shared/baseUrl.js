@@ -1,0 +1,1 @@
+export const baseUrl = 'https://sleepy-earth-00114.herokuapp.com/';
